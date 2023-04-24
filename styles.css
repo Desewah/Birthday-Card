@@ -134,14 +134,14 @@ body {
    
    p {
     font-family: 'Oleo Script', cursive;
-     margin: 40px;
+     margin: 10px;
      color: #333;
    }
    
    .name {
      position: absolute;
-     left:130px;
-     top:280px;
+     left:170px;
+     top:318px;
      color: #333;
      text-decoration: underline;
    }
